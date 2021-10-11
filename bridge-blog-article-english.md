@@ -11,7 +11,7 @@ The bridge gives a sTokens-holder as many ERC20 tokens as his staking amount
 The sToken is an NFT which is the certificate of staking).
 
 Creators of an OSS project can offer benefits to sTokens holders, 
-and by doing so, the creators can gives stakers an incentive for long-term staking.
+and by doing so, the creators can give stakers an incentive for long-term staking.
 The new contract, sTokens Bridge, transform sTokens into ERC20 tokens.
 By this transformation, 
 the Bridge makes creator's benefit-offering more flexible and decentralized, thus it helps the OSS community to grow.
@@ -38,7 +38,7 @@ she get a certificate of staking and 98 Ingram ERC20 tokens which represents her
 What would it be if Alice could use this ingram token instead of the sToken itself?
 In this case, the developers no longer need to read the inner information of the sToken.
 Instead they only need to check the Alice's balance of Ingram tokens.
-That is, the developer can use the ERC20 interface which is really standard and easy to develope with.
+That is, the developers can use the ERC20 interface which is really standard and easy to develope with.
 This clearly shows the sTokens Bridge improves the composability of the sToken.
 
 ## An example of application
