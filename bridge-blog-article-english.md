@@ -32,7 +32,7 @@ that is, they have to develop a Dapp to meet the unique specification of the sTo
 
 Isn't it a really bad idea that forcing developers to write codes to meet the sToken's unique specification?
 That's why we introduce the sTokens Bridge.
-When Alice deposits her sToken,
+When Alice deposits her sToken into the sTokens Bridge,
 she get a certificate of staking and 98 Ingram ERC20 tokens which represents her staking amount.
 
 What would it be if Alice could use this ingram token instead of the sToken itself?
@@ -52,7 +52,7 @@ In this way the creators can make decisions about their project with respecting 
 ## Conclusion
 sTokens can give opportunities where OSS creators offer benefits to stakers,
 but it is inconvenient to check the staking amount of each staker.
-The sTokens Bridge solve this inconvenience by transforming the sTokens into ERC20 tokens which is really standard and easy to develop with.
+The sTokens Bridge can solve this inconvenience by transforming the sTokens into ERC20 tokens which is really standard and easy to develop with.
 By introducing the sTokens Bridge, benefits-offering will be more active,
 thus that would bring about the further growth of the DEV community.
 
