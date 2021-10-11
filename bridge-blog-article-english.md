@@ -24,14 +24,15 @@ When Ingram creators want to offer benefits to Alice,
 they have to check if Alice has a sToken whose property is Ingram,
 and futhermore they need to know how many DEVs Alice is staking most of the time.
 
-Now let us assume that the creators is trying to develop a Dapp, where Alice can take benefits form her sToken.
+Now let us assume that the creators is trying to develop a Dapp, where Alice can take benefits from her sToken.
 In such a Dapp, developers need to read the inner information of Alice's sTokens. 
 However, to get the inner information,
 they have to check the source code of the sTokens contract,
 that is, they have to develop a Dapp to meet the unique specification of the sToken.
 
-Isn't it a really bad idea that forcing developers to write codes to meet the sToken's unique specification.
-That's why we introduce the sTokens Bridge. When Alice deposits her sTokens,
+Isn't it a really bad idea that forcing developers to write codes to meet the sToken's unique specification?
+That's why we introduce the sTokens Bridge.
+When Alice deposits her sToken,
 she get a certificate of staking and 98 Ingram ERC20 tokens which represents her staking amount.
 
 What would it be if Alice could use this ingram token instead of the sToken itself?
@@ -44,8 +45,9 @@ This clearly shows the sTokens Bridge improves the composability of the sToken.
 An example of the Bridge application is the community governance.
 Such a Dapp is already developed actually.
 [Snapshot](snapshot.org) is a Dapp where users can vote by using ERC20 tokens as their voting right.
-Like Snapshot we can use the Bridge tokens, that is, OSS creators can give each staker voting right which is proportional to one's Bridge token balance.
-In this way the creators can make decisions about their project with respecting their supporter.
+Like Snapshot we can use the Bridge tokens.
+That is, OSS creators can give each staker voting right share which is proportional to one's Bridge token balance.
+In this way the creators can make decisions about their project with respecting their supporters.
 
 ## Conclusion
 sTokens can give opportunities where OSS creators offer benefits to stakers,
