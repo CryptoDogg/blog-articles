@@ -1,5 +1,9 @@
 # sTokens Bridgeとはなんですか？それはどのように働きますか？
 
+こんにちは、9月からDev protocolでブロックチェーン開発をしている池田です。
+今回の記事では最近開発していたsTokens Bridgeコントラクトをご紹介します。
+sTokens Bridgeはまだリリースされていませんが(ソースコードはこちら: [github sTokensBridge](https://github.com/dev-protocol/s-tokens-bridge) )、本記事では一足早く、この新しいコントラクトによってどのようなことが可能になるかをご紹介します。
+
 ## 概要
 sTokens Bridgeとは、sTokens所有者が、sTokensを預け入れ、代わりにステーキング量に応じた新たなERC20トークンを得るためのコントラクトです
 (sTokensが何かは次の記事をご覧ください
