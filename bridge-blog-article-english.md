@@ -18,7 +18,7 @@ the Bridge makes creator's benefit-offering more flexible and decentralized, thu
 
 ## Why is the sTokens Bridge necessary?
 Here let us assume an situation where Alice stakes 98 DEVs in the Property "Ingram".
-By this staking, Alice gets an NFT called sTokens
+By this staking, Alice gets an NFT called sToken
 which has the following information: Property = Ingram, StakingAmount = 98 DEVs.
 When Ingram creators want to offer benefits to Alice,
 they have to check if Alice has a sToken whose property is Ingram,
