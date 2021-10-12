@@ -7,7 +7,7 @@ but in this article I will explain what this new contract will achieve in the fu
 ## Overview
 The sTokens Bridge is a contract, where sTokens-holders deposit their sTokens and get new ERC20 tokens in return.
 The bridge gives a sToken holder as much amount of ERC20 tokens as he/she staked. 
-(To know what the sToken is, see this article: [sTokens, NFTs mirroring DEV staking](https://medium.com/devprtcl/stokens-nfts-mirroring-dev-staking-b41f93d0f8a6).
+(To know what sToken is, see this article: [sTokens, NFTs mirroring DEV staking](https://medium.com/devprtcl/stokens-nfts-mirroring-dev-staking-b41f93d0f8a6).
 The sToken is an NFT which is the certificate of staking).
 
 Creators of OSS projects can offer benefits to sToken holders, 
@@ -17,7 +17,7 @@ By this transformation,
 the Bridge makes creator's benefit-offering more flexible and decentralized, thus it helps the OSS community grow.
 
 ## Why is the sTokens Bridge necessary?
-Here let us assume situation where Alice stakes 98 DEVs in the Property "Ingram".
+Here let us assume a situation where Alice stakes 98 DEVs in the Property "Ingram".
 By this staking, Alice gets an NFT called sToken
 which has the following information: Property = Ingram, StakingAmount = 98 DEVs.
 When Ingram creators want to offer benefits to Alice,
