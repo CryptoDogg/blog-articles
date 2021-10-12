@@ -35,7 +35,7 @@ that is, they have to develop Dapps to meet the unique specification of the sTok
 Isn't it a really bad idea that developers have to write codes customized only for the sToken's unique specification?
 That's why we'll introduce the sTokens Bridge.
 When Alice deposits her sToken into the sTokens Bridge,
-she gets a certificate of staking and 98 Ingram ERC20 tokens which represents her staking amount.
+she gets a certificate of staking and 98 Ingram ERC20 tokens, i.e. she gets ERC20 tokens which are equivalent to her staking amount.
 
 <img src="sTokensBridge.png" width="38%">
 
