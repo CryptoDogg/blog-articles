@@ -23,7 +23,8 @@ which has the following information: Property = Ingram, StakingAmount = 98 DEVs.
 When Ingram creators want to offer benefits to Alice,
 they have to check if Alice has a sToken whose property is Ingram,
 and futhermore they need to know how many DEVs Alice is staking most of the time.
-<img src="sTokens.png" width="100%">
+
+<img src="sTokens.png" width="50%">
 
 Now let us assume that the creators is trying to develop a Dapp, where Alice can take benefits from her sToken.
 In such a Dapp, developers need to read the inner information of Alice's sTokens. 
@@ -35,7 +36,8 @@ Isn't it a really bad idea that forcing developers to write codes to meet the sT
 That's why we introduce the sTokens Bridge.
 When Alice deposits her sToken into the sTokens Bridge,
 she get a certificate of staking and 98 Ingram ERC20 tokens which represents her staking amount.
-<img src="sTokensBridge.png" width="77%">
+
+<img src="sTokensBridge.png" width="38%">
 
 What would it be if Alice could use this ingram token instead of the sToken itself?
 In this case, the developers no longer need to read the inner information of the sToken.
