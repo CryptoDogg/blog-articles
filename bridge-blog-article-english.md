@@ -6,13 +6,13 @@ but in this article I will explain what this new contract will achieve in the fu
 
 ## Overview
 The sTokens Bridge is a contract, where sTokens-holders deposit their sTokens and get new ERC20 tokens in return.
-The bridge gives a sToken holder as much amount of ERC20 tokens as he/she staked. 
+The bridge gives a sToken holder as much amount of ERC20 tokens as he/she staked 
 (To know what sToken is, see this article: [sTokens, NFTs mirroring DEV staking](https://medium.com/devprtcl/stokens-nfts-mirroring-dev-staking-b41f93d0f8a6).
 The sToken is an NFT which is the certificate of staking).
 
 Creators of OSS projects can offer benefits to sToken holders, 
 and by doing so, the creators can give stakers an incentive for long-term staking.
-The new contract, sTokens Bridge, transform sTokens into ERC20 tokens.
+The new contract, sTokens Bridge, transforms sTokens into ERC20 tokens.
 By this transformation, 
 the Bridge makes creator's benefit-offering more flexible and decentralized, thus it helps the OSS community grow.
 
@@ -32,7 +32,7 @@ However, to get the inner information,
 they have to check the source code of the sToken contract,
 that is, they have to develop Dapps to meet the unique specification of the sToken.
 
-Isn't it a really bad idea for developers to make them write codes in order to meet the sToken's unique specification?
+Isn't it a really bad idea that developers have to write codes customized only for the sToken's unique specification?
 That's why we'll introduce the sTokens Bridge.
 When Alice deposits her sToken into the sTokens Bridge,
 she gets a certificate of staking and 98 Ingram ERC20 tokens which represents her staking amount.
