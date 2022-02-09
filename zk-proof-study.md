@@ -87,10 +87,10 @@ zk-SNARKの次に注目されている方法として、zk-STARKがある。
 zk-STARKは「Zero Knowledge - Scalable Transparent Argument of Knowledge」の略である。
 
 Scalable性は、計算時間が増加しないという特性で、zk-SNARKに比べ、計算時間が短くなるという利点が在る。
-一方でzk-SNARKが持っていたSuccinct性は持たないため、証明サイズは多くなるというデメリットが在る。
+一方でzk-SNARKが持っていたSuccinct性は持たないため、証明サイズは大きくなるというデメリットが在る。
 
 Transparent性（透明性）は、検証に利用する乱数の生成規則が公開されており、乱数生成のための第三者機関が必要ないことを意味する。
-よってzk-SNARKの欠点が解決されている。
+よってzk-SNARKの乱数生成におけるセキュリティ問題が解決されている。
 
 zk-STARKはzk-SNARKよりも新しい技術であり、現在、ブロックチェーンのスケーラビリティ向上を目的とし、研究開発が進められている。
 
