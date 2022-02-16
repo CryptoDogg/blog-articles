@@ -38,6 +38,14 @@ Khaosを用いることで、このような外部サービスとのやり取り
 また認証に使用するパーソナルアクセストークンのような秘匿情報も、自動的に暗号化してセキュアにオラクライズすることが可能になります。
 Khaosは非常に柔軟性が高いライブラリのため、少しのカスタマイズで、YouTube, Discord, Twitterなどあらゆる外部サービスとの連携が可能になります。
 
+もしKhaosを使い独自に新しいマーケットを開発したい場合、[khaos-starter-kit](https://github.com/dev-protocol/khaos-starter-kit)を使って、新しいマーケットを追加することができます
+（事前にコミュニティ内で新しいマーケットを追加することについてのコンセンサスは必要です）。
+今回のDiscordマーケットではこのスターターキットをもとに[khaos-discord-market](https://github.com/dev-protocol/khaos-discord-market)が開発されました。
+マーケットの追加の際は、スターターキットのauthorize関数を個別のマーケット用にカスタマイズすることで、マーケット認証が行えるようになります。
+
+メインモジュールの[Khaos](https://github.com/dev-protocol/khaos)のREADMEでKhaosのオラクル機能の概要が説明されています。
+こちらの記事([Deep Dive Khaos](https://initto.devprotocol.xyz/en/deep-dive-khaos/))では、Khaosについてより詳しい解説を読むことができます。開発に興味がある方は参考にしてください。
+
 ## 結論
 今月末に新たなマーケットとして、Discordマーケットがリリースされます。
 マーケットの拡大は、Dev protocolクリエイターエコノミーの拡大、DEVトークンの価値向上につながります。
