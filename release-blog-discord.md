@@ -5,6 +5,11 @@ Furthermore, our new Dapp "Niwa" will be released at the same time.
 Niwa is a Dapp specially made to be used by creators by letting them mint and manage social tokens.
 Niwa is the second official Dapp built on the Dev Protocol. It is specially made to be used by creators by letting them mint and manage social tokens. You can try a new type of organization instead of a conventional business corporation in order to realize creative projects.
 
+On Niwa, YouTube market will be launched too.
+This is our first time to support non OSS markets (Discord and YouTube).
+We are thinking of supporting other non OSS markets on Niwa in the future (for example Twitter or Instagram).
+Niwa would play a significant role in enlarging our creator economy.
+
 **Why Discord?**
 
 Many types of DAOs adopt Discord as one of their communication tools, and we firmly believe that Discord is one of the largest platforms where users demand its social tokenization. In 2022, there’s no doubt that we’ll see the acceleration and spreading of the creator economy concept, as well as the rise and need of social tokens. By launching the Discord Market, we can invite as many creators as possible and expand the Dev Protocol ecosystem. We consider Discord as the most efficacious market at the moment in order to grow the Dev Protocol ecosystem.
