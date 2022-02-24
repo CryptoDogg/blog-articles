@@ -8,7 +8,7 @@ Niwa is the second official Dapp built on the Dev Protocol. It is specially made
 On Niwa, YouTube market will be launched too.
 This is our first time to support non OSS markets (Discord and YouTube).
 We are thinking of supporting other non OSS markets on Niwa in the future (for example Twitter or Instagram).
-Niwa would play a significant role in enlarging our creator economy.
+Niwa would play a significant role in expanding our creator economy.
 
 **Why Discord?**
 
